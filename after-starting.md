@@ -21,8 +21,8 @@ Useful links once you've started
 * [Prism/Marauder](https://github.com/guardian/prism/tree/master/marauder) - For finding instances in AWS/GC2
 
 ## Email lists
-* dig.dev@theguardian.com - is for general department wide messages - ask Lizzy Clamp or Iona McKendrick to be added to this list
-* dig.dev.software@theguardian.com - is for software related messages - email 34444@theguardian.com and ask to be added to this list
+* dig.dev - is for general department wide messages - ask Lizzy Clamp or Iona McKendrick to be added to this list
+* dig.dev.software - is for software related messages - email 34444 and ask to be added to this list
 
 ## Other
 * [Free Guardian Membership](https://membership.theguardian.com/join/staff) - including a guardian canvas bag!
