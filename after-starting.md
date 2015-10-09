@@ -20,5 +20,9 @@ Useful links once you've started
 * Teleporter [Firefox](https://s3-eu-west-1.amazonaws.com/gustaf-dist/composer/index.html), [Chrome](https://chrome.google.com/webstore/detail/guardian-staff-extension/hgdefnifioidkaphoeplpjinodnbbmfg?authuser=0) - browser extension for jumping between guardian content in the Content API/Composer/Frontend/Ophan and more
 * [Prism/Marauder](https://github.com/guardian/prism/tree/master/marauder) - For finding instances in AWS/GC2
 
+## Email lists
+* dig.dev@theguardian.com - is for general department wide messages - ask Lizzy Clamp or Iona McKendrick to be added to this list
+* dig.dev.software@theguardian.com - is for software related messages - email 34444@theguardian.com and ask to be added to this list
+
 ## Other
 * [Free Guardian Membership](https://membership.theguardian.com/join/staff) - including a guardian canvas bag!
