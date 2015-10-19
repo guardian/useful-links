@@ -1,5 +1,8 @@
-Useful links once you've started
-================================
+#Useful links once you've started
+
+## Engineering recommendations
+
+* [Recommendations (currently internal)](https://github.com/guardian/recommendations)
 
 ## Internal Guardian Pages
 * [Spike](http://spike/) - Noticeboard, canteen food, HR policies, lots more
