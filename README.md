@@ -5,6 +5,7 @@ This is a collection of links that are helpful reading for people joining the Gu
 ## Principles
 
 * [Our engineering culture](https://github.com/guardian/our-engineering-culture)
+* [Engineering recommendations (currently internal)](https://github.com/guardian/recommendations)
 
 ## Information
 
