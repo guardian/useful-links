@@ -28,6 +28,7 @@ This is a collection of links that are helpful reading for people joining the Gu
 ## AngularJS
 
 * [Introduction to AngularJS](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+* [John Papa's opinionated Angular style guide](https://github.com/johnpapa/angular-styleguide)
 
 ## Books
 
