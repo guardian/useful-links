@@ -20,7 +20,6 @@ This is a collection of links that are helpful reading for people joining the Gu
 ## Scala
 
 * [Twitter's Scala school](http://twitter.github.io/scala_school/)
-*
 
 ## CSS
 
