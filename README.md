@@ -33,3 +33,7 @@ This is a collection of links that are helpful reading for people joining the Gu
 ## Books
 
 * [Functional programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
+
+## Command Line Tools
+
+* [Introduction to Command Line Tools](https://github.com/cb372/cli-tools-skills-amnesty)
