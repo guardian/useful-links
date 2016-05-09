@@ -16,10 +16,13 @@ This is a collection of links that are helpful reading for people joining the Gu
 * [GitHub flow](https://guides.github.com/introduction/flow/)
 * [Creating use Git commit messages](http://chris.beams.io/posts/git-commit/)
 * [Git pickaxe](http://www.philandstuff.com/2014/02/09/git-pickaxe.html)
+* [Getting Git right](https://www.atlassian.com/git/)
+* [Git and GitHub self-paced training](https://training.github.com/training/)
 
 ## Scala
 
 * [Twitter's Scala school](http://twitter.github.io/scala_school/)
+* [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
 
 ## CSS
 
@@ -37,3 +40,7 @@ This is a collection of links that are helpful reading for people joining the Gu
 ## Command Line Tools
 
 * [Introduction to Command Line Tools](https://github.com/cb372/cli-tools-skills-amnesty)
+
+## Rx
+
+* [Interactive diagrams of Rx Observables](http://rxmarbles.com/#elementAt)
