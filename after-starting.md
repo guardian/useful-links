@@ -4,7 +4,6 @@
 * [Spike](http://spike/) - Noticeboard, canteen food, HR policies, lots more
 * [GEE/Taleo](https://gnm.taleo.net/) - objectives
 * [Oracle Self Service](http://oracle.dmz.gnl:8079/OA_HTML/AppsLogin) - payslips and holiday booking
-* [Big brother](http://octhelp/inventory/bigbrother) - for finding people ;) - only really works with people on desktops
 
 ## Useful Docs
 * [Department admin guide](https://docs.google.com/document/d/1ErsZUEL0ELiGUYXHbEWlm0mLGY7lZoAnzF4IXWqnPG0/)
@@ -21,7 +20,7 @@
 * [Prism/Marauder](https://github.com/guardian/prism/tree/master/marauder) - For finding instances in AWS/GC2
 
 ## Email lists
-* dig.dev - is for general department wide messages - ask Lizzy Clamp or Iona McKendrick to be added to this list
+* dig.dev - is for general department wide messages - ask Sidel Stewart or Iona McKendrick to be added to this list
 * dig.dev.software - is for software related messages - email IT Servicedesk and ask to be added to this list
 
 ## Other
