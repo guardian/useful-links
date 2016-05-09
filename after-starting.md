@@ -12,7 +12,7 @@
 
 ## Development tools
 * [TeamCity](https://teamcity.gutools.co.uk/) - the current continuous integration system - see how your build is getting on.
-* [RiffRaff](http://riffraff.gutools.co.uk/) - for deploying your code
+* [RiffRaff](https://riffraff.gutools.co.uk/) - for deploying your code
 * [Janus](https://janus.gutools.co.uk/) - access AWS using your google auth login
 * [Feria](https://github.com/guardian/feria) - automation tool to make it easier to work with Janus
 
