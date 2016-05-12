@@ -33,6 +33,13 @@ This is a collection of links that are helpful reading for people joining the Gu
 * [Introduction to AngularJS](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 * [John Papa's opinionated Angular style guide](https://github.com/johnpapa/angular-styleguide)
 
+## ReactJS
+
+* [The official tutorial](https://facebook.github.io/react/docs/tutorial.html) is by far the best resource for React itself because it's up to date!
+* [Flux](https://facebook.github.io/flux/docs/overview.html#content)
+* [Redux](http://redux.js.org/docs/introduction/Motivation.html) ([video tutorial](https://egghead.io/series/getting-started-with-redux))is a preferred way of implementing Flux (and can be used with other frameworks as well for managing client-side state)
+
+
 ## Books
 
 * [Functional programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
