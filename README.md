@@ -2,6 +2,9 @@
 
 This is a collection of links that are helpful reading for people joining the Guardian digital development department.
 
+## New starters
+* [Things to do once you've started at the Guardian](https://github.com/guardian/useful-links/blob/master/after-starting.md)
+
 ## Principles
 
 * [Our engineering culture](https://github.com/guardian/our-engineering-culture)
