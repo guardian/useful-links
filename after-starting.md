@@ -23,6 +23,7 @@
 ## Email lists
 * dig.dev - is for general department wide messages - ask Sidel Stewart or Iona McKendrick to be added to this list
 * dig.dev.software - is for software related messages - email IT Servicedesk and ask to be added to this list
-
+* 2FA_force - staff for whom two factor authentication will be enforced
+* 
 ## Other
 * [Free Guardian Membership](https://membership.theguardian.com/join/staff) - including a guardian canvas bag!
