@@ -8,6 +8,7 @@
 ## Useful Docs
 * [Department admin guide](https://docs.google.com/document/d/1ErsZUEL0ELiGUYXHbEWlm0mLGY7lZoAnzF4IXWqnPG0/)
 * [Socials/Events/Activities](https://docs.google.com/document/d/1aHFEtlXG0f-R12S0SPBzLXa1JnRpIJYjactHaYjmyGk/)
+* [Recommendations for how to develop software at the Guardian](https://github.com/guardian/recommendations)
 
 ## Development tools
 * [TeamCity](https://teamcity-aws.gutools.co.uk) - shared teamcity continuous integration system - see how your build is getting on.
