@@ -10,7 +10,7 @@
 * [Socials/Events/Activities](https://docs.google.com/document/d/1aHFEtlXG0f-R12S0SPBzLXa1JnRpIJYjactHaYjmyGk/)
 
 ## Development tools
-* [TeamCity](https://teamcity-aws.gutools.co.uk) - shared teamcity continuous integration system - see how your build is getting on.
+* [TeamCity](https://teamcity.gutools.co.uk) - shared teamcity continuous integration system - see how your build is getting on.
 * [CircleCI](https://circleci.com/dashboard) - shared circleci continuous integration system - login with github
 * [RiffRaff](https://riffraff.gutools.co.uk/) - for deploying your code
 * [Janus](https://janus.gutools.co.uk/) - access AWS using your google auth login
