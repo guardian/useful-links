@@ -1,6 +1,6 @@
-#Useful links once you've started
+# Useful links once you've started
 
-## Internal Guardian Pages
+## Internal Guardian Pages
 * [Spike](http://spike/) - Noticeboard, canteen food, HR policies, lots more
 * [GEE/Taleo](https://gnm.taleo.net/) - objectives
 * [Oracle Self Service](http://oracle.dmz.gnl:8079/OA_HTML/AppsLogin) - payslips and holiday booking
