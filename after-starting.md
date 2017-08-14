@@ -18,7 +18,7 @@
 
 ## Software
 * Teleporter [Firefox](https://s3-eu-west-1.amazonaws.com/gustaf-dist/composer/index.html), [Chrome](https://chrome.google.com/webstore/detail/guardian-staff-extension/hgdefnifioidkaphoeplpjinodnbbmfg?authuser=0) - browser extension for jumping between guardian content in the Content API/Composer/Frontend/Ophan and more
-* [Prism/Marauder](https://github.com/guardian/prism/tree/master/marauder) - For finding instances in AWS/GC2
+* [Prism/Marauder](https://github.com/guardian/prism/tree/master/marauder) - For finding instances in AWS
 
 ## Email lists
 * dig.dev - is for general department wide messages - ask Sidel Stewart or Iona McKendrick to be added to this list
