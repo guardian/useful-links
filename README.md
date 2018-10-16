@@ -13,6 +13,7 @@ This is a collection of links that are helpful reading for people joining the Gu
 ## Information
 
 * [Guardian Developers site](http://developers.theguardian.com)
+* [Personal Development Activities](https://docs.google.com/document/d/1ulE6ScehF19UyzCqcrrFSdFoQAKTse-zSOhrf3R3TqQ/edit?usp=sharing)
 
 ## Git
 
