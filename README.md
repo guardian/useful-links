@@ -46,6 +46,7 @@ This is a collection of links that are helpful reading for people joining the Gu
 
 ## Books
 
+* [Essential Scala](https://underscore.io/training/courses/essential-scala/). This link is to a course but it also has a link to download the book for free.
 * [Functional programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
 
 ## Command Line Tools
