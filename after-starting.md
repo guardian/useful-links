@@ -2,11 +2,12 @@
 
 ## Internal Guardian Pages
 * [Spike](http://spike/) - Noticeboard, canteen food, HR policies, lots more
-* [GEE/Taleo](https://gnm.taleo.net/) - objectives
+* [GEE/Taleo](https://gnm.taleo.net/) - personal development
 * [Oracle Self Service](http://oracle.dmz.gnl:8079/OA_HTML/AppsLogin) - payslips and holiday booking
 
 ## Useful Docs
 * [Department admin guide](https://docs.google.com/document/d/1ErsZUEL0ELiGUYXHbEWlm0mLGY7lZoAnzF4IXWqnPG0/)
+* [Digital team career progression framework](https://docs.google.com/spreadsheets/d/1e66TuObMmYGcZeGqIl-BdGjHj_cPb1SDA2s_F3iNz34/edit#gid=1) 
 * [Socials/Events/Activities](https://docs.google.com/document/d/1aHFEtlXG0f-R12S0SPBzLXa1JnRpIJYjactHaYjmyGk/)
 
 ## Development tools
