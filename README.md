@@ -1,3 +1,8 @@
+> [!WARNING]
+> **DEPRECATED**
+> 
+> Please see https://sites.google.com/guardian.co.uk/productandengineering-website.
+
 # Useful links
 
 This is a collection of links that are helpful reading for people joining the Guardian digital development department.
